@@ -1,0 +1,6 @@
+torch==2.13.0
+streamlit==1.55.0
+numpy
+pandas
+scipy
+pyyaml
